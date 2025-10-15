@@ -217,3 +217,5 @@ func main() {
 		}
 	}
 }
+
+// Ditambahkan oleh Nabil Zainuddin pada 15 Oktober 2025
